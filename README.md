@@ -6,9 +6,9 @@ This is an app that allows users to search Github Repos and view up-to-date repo
 
 This app contains:
 
-1. Ability to search Github repos
+1. Ability to search Github repositories
 2. Look up repositories by username
-3. View current open issues.
+3. View current open issues
 
 # Screen Shots
 
